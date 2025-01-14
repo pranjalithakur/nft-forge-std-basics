@@ -12,6 +12,3 @@ contract DeployVotingSystem is Script {
         vm.stopBroadcast();
     }
 }
-
-
-

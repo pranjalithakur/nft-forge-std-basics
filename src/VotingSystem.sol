@@ -41,6 +41,3 @@ contract VotingSystem {
         return proposals;
     }
 }
-
-
-

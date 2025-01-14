@@ -34,6 +34,3 @@ contract VotingSystemTest is Test {
         votingSystem.vote(0);
     }
 }
-
-
-
